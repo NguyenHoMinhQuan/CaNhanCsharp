@@ -1,0 +1,14 @@
+F:\zBaiTapC#\BaiTapMang_TongHop\BaiTapMang_TongHop\bin\Debug\net8.0\BaiTapMang_TongHop.exe
+F:\zBaiTapC#\BaiTapMang_TongHop\BaiTapMang_TongHop\bin\Debug\net8.0\BaiTapMang_TongHop.deps.json
+F:\zBaiTapC#\BaiTapMang_TongHop\BaiTapMang_TongHop\bin\Debug\net8.0\BaiTapMang_TongHop.runtimeconfig.json
+F:\zBaiTapC#\BaiTapMang_TongHop\BaiTapMang_TongHop\bin\Debug\net8.0\BaiTapMang_TongHop.dll
+F:\zBaiTapC#\BaiTapMang_TongHop\BaiTapMang_TongHop\bin\Debug\net8.0\BaiTapMang_TongHop.pdb
+F:\zBaiTapC#\BaiTapMang_TongHop\BaiTapMang_TongHop\obj\Debug\net8.0\BaiTapMang_TongHop.GeneratedMSBuildEditorConfig.editorconfig
+F:\zBaiTapC#\BaiTapMang_TongHop\BaiTapMang_TongHop\obj\Debug\net8.0\BaiTapMang_TongHop.AssemblyInfoInputs.cache
+F:\zBaiTapC#\BaiTapMang_TongHop\BaiTapMang_TongHop\obj\Debug\net8.0\BaiTapMang_TongHop.AssemblyInfo.cs
+F:\zBaiTapC#\BaiTapMang_TongHop\BaiTapMang_TongHop\obj\Debug\net8.0\BaiTapMang_TongHop.csproj.CoreCompileInputs.cache
+F:\zBaiTapC#\BaiTapMang_TongHop\BaiTapMang_TongHop\obj\Debug\net8.0\BaiTapMang_TongHop.dll
+F:\zBaiTapC#\BaiTapMang_TongHop\BaiTapMang_TongHop\obj\Debug\net8.0\refint\BaiTapMang_TongHop.dll
+F:\zBaiTapC#\BaiTapMang_TongHop\BaiTapMang_TongHop\obj\Debug\net8.0\BaiTapMang_TongHop.pdb
+F:\zBaiTapC#\BaiTapMang_TongHop\BaiTapMang_TongHop\obj\Debug\net8.0\BaiTapMang_TongHop.genruntimeconfig.cache
+F:\zBaiTapC#\BaiTapMang_TongHop\BaiTapMang_TongHop\obj\Debug\net8.0\ref\BaiTapMang_TongHop.dll
