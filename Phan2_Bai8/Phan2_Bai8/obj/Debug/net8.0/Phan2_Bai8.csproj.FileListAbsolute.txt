@@ -1,0 +1,14 @@
+F:\zBaiTapC#\Phan2_Bai8\Phan2_Bai8\bin\Debug\net8.0\Phan2_Bai8.exe
+F:\zBaiTapC#\Phan2_Bai8\Phan2_Bai8\bin\Debug\net8.0\Phan2_Bai8.deps.json
+F:\zBaiTapC#\Phan2_Bai8\Phan2_Bai8\bin\Debug\net8.0\Phan2_Bai8.runtimeconfig.json
+F:\zBaiTapC#\Phan2_Bai8\Phan2_Bai8\bin\Debug\net8.0\Phan2_Bai8.dll
+F:\zBaiTapC#\Phan2_Bai8\Phan2_Bai8\bin\Debug\net8.0\Phan2_Bai8.pdb
+F:\zBaiTapC#\Phan2_Bai8\Phan2_Bai8\obj\Debug\net8.0\Phan2_Bai8.GeneratedMSBuildEditorConfig.editorconfig
+F:\zBaiTapC#\Phan2_Bai8\Phan2_Bai8\obj\Debug\net8.0\Phan2_Bai8.AssemblyInfoInputs.cache
+F:\zBaiTapC#\Phan2_Bai8\Phan2_Bai8\obj\Debug\net8.0\Phan2_Bai8.AssemblyInfo.cs
+F:\zBaiTapC#\Phan2_Bai8\Phan2_Bai8\obj\Debug\net8.0\Phan2_Bai8.csproj.CoreCompileInputs.cache
+F:\zBaiTapC#\Phan2_Bai8\Phan2_Bai8\obj\Debug\net8.0\Phan2_Bai8.dll
+F:\zBaiTapC#\Phan2_Bai8\Phan2_Bai8\obj\Debug\net8.0\refint\Phan2_Bai8.dll
+F:\zBaiTapC#\Phan2_Bai8\Phan2_Bai8\obj\Debug\net8.0\Phan2_Bai8.pdb
+F:\zBaiTapC#\Phan2_Bai8\Phan2_Bai8\obj\Debug\net8.0\Phan2_Bai8.genruntimeconfig.cache
+F:\zBaiTapC#\Phan2_Bai8\Phan2_Bai8\obj\Debug\net8.0\ref\Phan2_Bai8.dll
