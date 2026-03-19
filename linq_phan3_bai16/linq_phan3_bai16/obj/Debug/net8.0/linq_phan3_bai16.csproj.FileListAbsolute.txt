@@ -1,0 +1,14 @@
+F:\zBaiTapC#\linq_phan3_bai16\linq_phan3_bai16\bin\Debug\net8.0\linq_phan3_bai16.exe
+F:\zBaiTapC#\linq_phan3_bai16\linq_phan3_bai16\bin\Debug\net8.0\linq_phan3_bai16.deps.json
+F:\zBaiTapC#\linq_phan3_bai16\linq_phan3_bai16\bin\Debug\net8.0\linq_phan3_bai16.runtimeconfig.json
+F:\zBaiTapC#\linq_phan3_bai16\linq_phan3_bai16\bin\Debug\net8.0\linq_phan3_bai16.dll
+F:\zBaiTapC#\linq_phan3_bai16\linq_phan3_bai16\bin\Debug\net8.0\linq_phan3_bai16.pdb
+F:\zBaiTapC#\linq_phan3_bai16\linq_phan3_bai16\obj\Debug\net8.0\linq_phan3_bai16.GeneratedMSBuildEditorConfig.editorconfig
+F:\zBaiTapC#\linq_phan3_bai16\linq_phan3_bai16\obj\Debug\net8.0\linq_phan3_bai16.AssemblyInfoInputs.cache
+F:\zBaiTapC#\linq_phan3_bai16\linq_phan3_bai16\obj\Debug\net8.0\linq_phan3_bai16.AssemblyInfo.cs
+F:\zBaiTapC#\linq_phan3_bai16\linq_phan3_bai16\obj\Debug\net8.0\linq_phan3_bai16.csproj.CoreCompileInputs.cache
+F:\zBaiTapC#\linq_phan3_bai16\linq_phan3_bai16\obj\Debug\net8.0\linq_phan3_bai16.dll
+F:\zBaiTapC#\linq_phan3_bai16\linq_phan3_bai16\obj\Debug\net8.0\refint\linq_phan3_bai16.dll
+F:\zBaiTapC#\linq_phan3_bai16\linq_phan3_bai16\obj\Debug\net8.0\linq_phan3_bai16.pdb
+F:\zBaiTapC#\linq_phan3_bai16\linq_phan3_bai16\obj\Debug\net8.0\linq_phan3_bai16.genruntimeconfig.cache
+F:\zBaiTapC#\linq_phan3_bai16\linq_phan3_bai16\obj\Debug\net8.0\ref\linq_phan3_bai16.dll
