@@ -1,0 +1,14 @@
+F:\zBaiTapC#\LinQ_BaiTapTrenLop\LinQ_BaiTapTrenLop\bin\Debug\net8.0\LinQ_BaiTapTrenLop.exe
+F:\zBaiTapC#\LinQ_BaiTapTrenLop\LinQ_BaiTapTrenLop\bin\Debug\net8.0\LinQ_BaiTapTrenLop.deps.json
+F:\zBaiTapC#\LinQ_BaiTapTrenLop\LinQ_BaiTapTrenLop\bin\Debug\net8.0\LinQ_BaiTapTrenLop.runtimeconfig.json
+F:\zBaiTapC#\LinQ_BaiTapTrenLop\LinQ_BaiTapTrenLop\bin\Debug\net8.0\LinQ_BaiTapTrenLop.dll
+F:\zBaiTapC#\LinQ_BaiTapTrenLop\LinQ_BaiTapTrenLop\bin\Debug\net8.0\LinQ_BaiTapTrenLop.pdb
+F:\zBaiTapC#\LinQ_BaiTapTrenLop\LinQ_BaiTapTrenLop\obj\Debug\net8.0\LinQ_BaiTapTrenLop.GeneratedMSBuildEditorConfig.editorconfig
+F:\zBaiTapC#\LinQ_BaiTapTrenLop\LinQ_BaiTapTrenLop\obj\Debug\net8.0\LinQ_BaiTapTrenLop.AssemblyInfoInputs.cache
+F:\zBaiTapC#\LinQ_BaiTapTrenLop\LinQ_BaiTapTrenLop\obj\Debug\net8.0\LinQ_BaiTapTrenLop.AssemblyInfo.cs
+F:\zBaiTapC#\LinQ_BaiTapTrenLop\LinQ_BaiTapTrenLop\obj\Debug\net8.0\LinQ_BaiTapTrenLop.csproj.CoreCompileInputs.cache
+F:\zBaiTapC#\LinQ_BaiTapTrenLop\LinQ_BaiTapTrenLop\obj\Debug\net8.0\LinQ_BaiTapTrenLop.dll
+F:\zBaiTapC#\LinQ_BaiTapTrenLop\LinQ_BaiTapTrenLop\obj\Debug\net8.0\refint\LinQ_BaiTapTrenLop.dll
+F:\zBaiTapC#\LinQ_BaiTapTrenLop\LinQ_BaiTapTrenLop\obj\Debug\net8.0\LinQ_BaiTapTrenLop.pdb
+F:\zBaiTapC#\LinQ_BaiTapTrenLop\LinQ_BaiTapTrenLop\obj\Debug\net8.0\LinQ_BaiTapTrenLop.genruntimeconfig.cache
+F:\zBaiTapC#\LinQ_BaiTapTrenLop\LinQ_BaiTapTrenLop\obj\Debug\net8.0\ref\LinQ_BaiTapTrenLop.dll
