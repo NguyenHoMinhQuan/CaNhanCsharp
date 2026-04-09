@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "F:\\stCaNhanC#\\DBFirst\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8DFE178E-542B-4307-8890-79976DBB5628}|DBFirst\\DBFirst.csproj|f:\\stcanhanc#\\dbfirst\\dbfirst\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DFE178E-542B-4307-8890-79976DBB5628}|DBFirst\\DBFirst.csproj|solutionrelative:dbfirst\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8DFE178E-542B-4307-8890-79976DBB5628}|DBFirst\\DBFirst.csproj|f:\\stcanhanc#\\dbfirst\\dbfirst\\controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DFE178E-542B-4307-8890-79976DBB5628}|DBFirst\\DBFirst.csproj|solutionrelative:dbfirst\\controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DFE178E-542B-4307-8890-79976DBB5628}|DBFirst\\DBFirst.csproj|f:\\stcanhanc#\\dbfirst\\dbfirst\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DFE178E-542B-4307-8890-79976DBB5628}|DBFirst\\DBFirst.csproj|solutionrelative:dbfirst\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,14 +47,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StudentDbContext.cs",
-              "DocumentMoniker": "F:\\stCaNhanC#\\DBFirst\\DBFirst\\Models\\StudentDbContext.cs",
-              "RelativeDocumentMoniker": "DBFirst\\Models\\StudentDbContext.cs",
-              "ToolTip": "F:\\stCaNhanC#\\DBFirst\\DBFirst\\Models\\StudentDbContext.cs",
-              "RelativeToolTip": "DBFirst\\Models\\StudentDbContext.cs",
+              "Title": "ClassesController.cs",
+              "DocumentMoniker": "F:\\stCaNhanC#\\DBFirst\\DBFirst\\Controllers\\ClassesController.cs",
+              "RelativeDocumentMoniker": "DBFirst\\Controllers\\ClassesController.cs",
+              "ToolTip": "F:\\stCaNhanC#\\DBFirst\\DBFirst\\Controllers\\ClassesController.cs",
+              "RelativeToolTip": "DBFirst\\Controllers\\ClassesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T12:26:24.633Z",
+              "WhenOpened": "2026-04-09T12:43:41.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "F:\\stCaNhanC#\\DBFirst\\DBFirst\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "DBFirst\\Controllers\\StudentsController.cs",
+              "ToolTip": "F:\\stCaNhanC#\\DBFirst\\DBFirst\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "DBFirst\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T12:41:58.322Z",
               "EditorCaption": ""
             }
           ]
