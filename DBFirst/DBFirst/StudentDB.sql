@@ -1,0 +1,14 @@
+CREATE DATABASE StudentDB;
+GO
+USE StudentDB;
+GO
+CREATE TABLE Classes (
+    ClassId INT PRIMARY KEY IDENTITY,
+    ClassName NVARCHAR(100) NOT NULL
+);
+CREATE TABLE Students (
+    StudentId INT PRIMARY KEY IDENTITY,
+    FullName NVARCHAR(100) NOT NULL,
+    Email NVARCHAR(100),
+    ClassId INT FOREIGN KEY REFERENCES Classes(ClassId)
+);
