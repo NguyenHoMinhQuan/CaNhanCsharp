@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "F:\\stCaNhanC#\\DBFirst\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8DFE178E-542B-4307-8890-79976DBB5628}|DBFirst\\DBFirst.csproj|f:\\stcanhanc#\\dbfirst\\dbfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DFE178E-542B-4307-8890-79976DBB5628}|DBFirst\\DBFirst.csproj|solutionrelative:dbfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8DFE178E-542B-4307-8890-79976DBB5628}|DBFirst\\DBFirst.csproj|f:\\stcanhanc#\\dbfirst\\dbfirst\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DFE178E-542B-4307-8890-79976DBB5628}|DBFirst\\DBFirst.csproj|solutionrelative:dbfirst\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,14 +43,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\stCaNhanC#\\DBFirst\\DBFirst\\Program.cs",
-              "RelativeDocumentMoniker": "DBFirst\\Program.cs",
-              "ToolTip": "F:\\stCaNhanC#\\DBFirst\\DBFirst\\Program.cs",
-              "RelativeToolTip": "DBFirst\\Program.cs",
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "F:\\stCaNhanC#\\DBFirst\\DBFirst\\Models\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "DBFirst\\Models\\StudentDbContext.cs",
+              "ToolTip": "F:\\stCaNhanC#\\DBFirst\\DBFirst\\Models\\StudentDbContext.cs",
+              "RelativeToolTip": "DBFirst\\Models\\StudentDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T12:21:33.799Z",
+              "WhenOpened": "2026-04-09T12:26:24.633Z",
               "EditorCaption": ""
             }
           ]
