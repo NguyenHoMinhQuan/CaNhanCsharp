@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\zBaiTapC#\\CODEFirst\\CODEFirst\\CODEFirst.csproj",
+      "projectUniqueName": "F:\\stCaNhanC#\\CODEFirst\\CODEFirst\\CODEFirst.csproj",
       "projectName": "CODEFirst",
-      "projectPath": "F:\\zBaiTapC#\\CODEFirst\\CODEFirst\\CODEFirst.csproj",
+      "projectPath": "F:\\stCaNhanC#\\CODEFirst\\CODEFirst\\CODEFirst.csproj",
       "packagesPath": "C:\\Users\\X\\.nuget\\packages\\",
-      "outputPath": "F:\\zBaiTapC#\\CODEFirst\\CODEFirst\\obj\\",
+      "outputPath": "F:\\stCaNhanC#\\CODEFirst\\CODEFirst\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
