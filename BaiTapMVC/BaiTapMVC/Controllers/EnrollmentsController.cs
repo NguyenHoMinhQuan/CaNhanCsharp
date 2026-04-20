@@ -22,7 +22,13 @@ namespace BaiTapMVC.Controllers
         // GET: Enrollments
         public async Task<IActionResult> Index()
         {
-            var appDbContext = _context.Enrollments.Include(e => e.CourseClass).Include(e => e.Student);
+            var appDbContext = _context.Enrollments
+                .Include(e => e.Student)
+                .Include(e => e.CourseClass)
+                    .ThenInclude(c => c.Course)
+                .Include(e => e.CourseClass)
+                    .ThenInclude(c => c.Teacher);
+
             return View(await appDbContext.ToListAsync());
         }
 

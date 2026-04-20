@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "F:\\stCaNhanC#\\BaiTapMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72035871-A5F0-47CF-9B2A-5021A0E5E555}|BaiTapMVC\\BaiTapMVC.csproj|f:\\stcanhanc#\\baitapmvc\\baitapmvc\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{72035871-A5F0-47CF-9B2A-5021A0E5E555}|BaiTapMVC\\BaiTapMVC.csproj|solutionrelative:baitapmvc\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{72035871-A5F0-47CF-9B2A-5021A0E5E555}|BaiTapMVC\\BaiTapMVC.csproj|f:\\stcanhanc#\\baitapmvc\\baitapmvc\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72035871-A5F0-47CF-9B2A-5021A0E5E555}|BaiTapMVC\\BaiTapMVC.csproj|solutionrelative:baitapmvc\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72035871-A5F0-47CF-9B2A-5021A0E5E555}|BaiTapMVC\\BaiTapMVC.csproj|f:\\stcanhanc#\\baitapmvc\\baitapmvc\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72035871-A5F0-47CF-9B2A-5021A0E5E555}|BaiTapMVC\\BaiTapMVC.csproj|solutionrelative:baitapmvc\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72035871-A5F0-47CF-9B2A-5021A0E5E555}|BaiTapMVC\\BaiTapMVC.csproj|f:\\stcanhanc#\\baitapmvc\\baitapmvc\\views\\enrollments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72035871-A5F0-47CF-9B2A-5021A0E5E555}|BaiTapMVC\\BaiTapMVC.csproj|solutionrelative:baitapmvc\\views\\enrollments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,27 +47,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "F:\\stCaNhanC#\\BaiTapMVC\\BaiTapMVC\\Views\\Students\\Index.cshtml",
-              "RelativeDocumentMoniker": "BaiTapMVC\\Views\\Students\\Index.cshtml",
-              "ToolTip": "F:\\stCaNhanC#\\BaiTapMVC\\BaiTapMVC\\Views\\Students\\Index.cshtml",
-              "RelativeToolTip": "BaiTapMVC\\Views\\Students\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-20T07:06:20.672Z",
+              "Title": "EnrollmentsController.cs",
+              "DocumentMoniker": "F:\\stCaNhanC#\\BaiTapMVC\\BaiTapMVC\\Controllers\\EnrollmentsController.cs",
+              "RelativeDocumentMoniker": "BaiTapMVC\\Controllers\\EnrollmentsController.cs",
+              "ToolTip": "F:\\stCaNhanC#\\BaiTapMVC\\BaiTapMVC\\Controllers\\EnrollmentsController.cs",
+              "RelativeToolTip": "BaiTapMVC\\Controllers\\EnrollmentsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T07:50:42.983Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "StudentsController.cs",
-              "DocumentMoniker": "F:\\stCaNhanC#\\BaiTapMVC\\BaiTapMVC\\Controllers\\StudentsController.cs",
-              "RelativeDocumentMoniker": "BaiTapMVC\\Controllers\\StudentsController.cs",
-              "ToolTip": "F:\\stCaNhanC#\\BaiTapMVC\\BaiTapMVC\\Controllers\\StudentsController.cs",
-              "RelativeToolTip": "BaiTapMVC\\Controllers\\StudentsController.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAAAJAAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T07:04:48.059Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\stCaNhanC#\\BaiTapMVC\\BaiTapMVC\\Views\\Enrollments\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiTapMVC\\Views\\Enrollments\\Index.cshtml",
+              "ToolTip": "F:\\stCaNhanC#\\BaiTapMVC\\BaiTapMVC\\Views\\Enrollments\\Index.cshtml",
+              "RelativeToolTip": "BaiTapMVC\\Views\\Enrollments\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-20T07:49:57.626Z",
               "EditorCaption": ""
             }
           ]

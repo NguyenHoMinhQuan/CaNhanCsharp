@@ -1,41 +1,38 @@
 ﻿@model IEnumerable<BaiTapMVC.Models.Enrollment>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Danh sách đăng ký";
 }
 
-<h1>Index</h1>
+<h2>Danh sách đăng ký</h2>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="Create" class="btn btn-primary">➕ Đăng ký học</a>
 </p>
-<table class="table">
+
+<table class="table table-bordered">
     <thead>
         <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Student)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.CourseClass)
-            </th>
-            <th></th>
+            <th>Sinh viên</th>
+            <th>Khóa học</th>
+            <th>Giáo viên</th>
+            <th width="250">Thao tác</th>
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Student.Name)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.CourseClass.CourseClassId)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.EnrollmentId">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.EnrollmentId">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.EnrollmentId">Delete</a>
-            </td>
-        </tr>
-}
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Student.Name</td>
+                <td>@item.CourseClass?.Course?.CourseName</td>
+                <td>@item.CourseClass?.Teacher?.Name</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.EnrollmentId">Chi tiết</a> |
+                    <a asp-action="Edit" asp-route-id="@item.EnrollmentId">Sửa</a> |
+                    <a asp-action="Delete" asp-route-id="@item.EnrollmentId">Xóa</a>
+                </td>
+            </tr>
+        }
     </tbody>
 </table>
+<a href="/" class="btn btn-dark">🏠 Dashboard</a>

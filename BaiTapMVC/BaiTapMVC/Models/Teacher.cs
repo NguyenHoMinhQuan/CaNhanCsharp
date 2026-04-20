@@ -8,6 +8,6 @@ namespace BaiTapMVC.Models
         [Required]
         public string Name { get; set; }
 
-        public ICollection<CourseClass> CourseClasses { get; set; }
+        public ICollection<Enrollment> Enrollments { get; set; } = new List<Enrollment>();
     }
 }

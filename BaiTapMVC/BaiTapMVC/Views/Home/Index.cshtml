@@ -1,8 +1,66 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Dashboard";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="container mt-5">
+    <h1 class="text-center mb-4">🎯 Hệ thống quản lý đào tạo</h1>
+
+    <div class="row text-center">
+
+        <!-- Student -->
+        <div class="col-md-4 mb-4">
+            <div class="card shadow">
+                <div class="card-body">
+                    <h4>Sinh viên</h4>
+                    <p>Quản lý danh sách sinh viên</p>
+                    <a href="/Students" class="btn btn-primary">Truy cập</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Teacher -->
+        <div class="col-md-4 mb-4">
+            <div class="card shadow">
+                <div class="card-body">
+                    <h4>Giáo viên</h4>
+                    <p>Quản lý giáo viên</p>
+                    <a href="/Teachers" class="btn btn-success">Truy cập</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Course -->
+        <div class="col-md-4 mb-4">
+            <div class="card shadow">
+                <div class="card-body">
+                    <h4>Khóa học</h4>
+                    <p>Quản lý khóa học</p>
+                    <a href="/Courses" class="btn btn-warning">Truy cập</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- CourseClass -->
+        <div class="col-md-4 mb-4">
+            <div class="card shadow">
+                <div class="card-body">
+                    <h4>Lớp học phần</h4>
+                    <p>Quản lý lớp học</p>
+                    <a href="/CourseClasses" class="btn btn-info">Truy cập</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Enrollment -->
+        <div class="col-md-4 mb-4">
+            <div class="card shadow">
+                <div class="card-body">
+                    <h4>Đăng ký học</h4>
+                    <p>Quản lý đăng ký lớp</p>
+                    <a href="/Enrollments" class="btn btn-danger">Truy cập</a>
+                </div>
+            </div>
+        </div>
+
+    </div>
 </div>

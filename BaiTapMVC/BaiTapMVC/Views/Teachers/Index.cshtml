@@ -1,35 +1,34 @@
 ﻿@model IEnumerable<BaiTapMVC.Models.Teacher>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Danh sách giáo viên";
 }
 
-<h1>Index</h1>
+<h2>Danh sách giáo viên</h2>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="Create" class="btn btn-primary">➕ Thêm giáo viên</a>
 </p>
-<table class="table">
+
+<table class="table table-bordered">
     <thead>
         <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Name)
-            </th>
-            <th></th>
+            <th>Tên giáo viên</th>
+            <th width="250">Thao tác</th>
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Name)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.TeacherId">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.TeacherId">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.TeacherId">Delete</a>
-            </td>
-        </tr>
-}
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.TeacherId">Chi tiết</a> |
+                    <a asp-action="Edit" asp-route-id="@item.TeacherId">Sửa</a> |
+                    <a asp-action="Delete" asp-route-id="@item.TeacherId">Xóa</a>
+                </td>
+            </tr>
+        }
     </tbody>
 </table>
+<a href="/" class="btn btn-dark">🏠 Dashboard</a>

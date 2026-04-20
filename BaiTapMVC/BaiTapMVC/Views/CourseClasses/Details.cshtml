@@ -1,30 +1,18 @@
 ﻿@model BaiTapMVC.Models.CourseClass
 
 @{
-    ViewData["Title"] = "Details";
+    ViewData["Title"] = "Chi tiết lớp học phần";
 }
 
-<h1>Details</h1>
+<h2>Chi tiết lớp học phần</h2>
 
 <div>
-    <h4>CourseClass</h4>
-    <hr />
-    <dl class="row">
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Course)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Course.CourseName)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Teacher)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Teacher.Name)
-        </dd>
-    </dl>
+    <p><strong>ID:</strong> @Model.CourseClassId</p>
+    <p><strong>Khóa học:</strong> @Model.Course.CourseName</p>
+    <p><strong>Giáo viên:</strong> @Model.Teacher.Name</p>
 </div>
-<div>
-    <a asp-action="Edit" asp-route-id="@Model?.CourseClassId">Edit</a> |
-    <a asp-action="Index">Back to List</a>
-</div>
+
+<br />
+
+<a asp-action="Edit" asp-route-id="@Model.CourseClassId" class="btn btn-warning">Sửa</a>
+<a asp-action="Index" class="btn btn-secondary">Quay lại</a>
