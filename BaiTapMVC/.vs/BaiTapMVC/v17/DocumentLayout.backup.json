@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "F:\\stCaNhanC#\\BaiTapMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72035871-A5F0-47CF-9B2A-5021A0E5E555}|BaiTapMVC\\BaiTapMVC.csproj|f:\\stcanhanc#\\baitapmvc\\baitapmvc\\migrations\\20260420065305_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72035871-A5F0-47CF-9B2A-5021A0E5E555}|BaiTapMVC\\BaiTapMVC.csproj|solutionrelative:baitapmvc\\migrations\\20260420065305_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72035871-A5F0-47CF-9B2A-5021A0E5E555}|BaiTapMVC\\BaiTapMVC.csproj|f:\\stcanhanc#\\baitapmvc\\baitapmvc\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72035871-A5F0-47CF-9B2A-5021A0E5E555}|BaiTapMVC\\BaiTapMVC.csproj|solutionrelative:baitapmvc\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72035871-A5F0-47CF-9B2A-5021A0E5E555}|BaiTapMVC\\BaiTapMVC.csproj|f:\\stcanhanc#\\baitapmvc\\baitapmvc\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72035871-A5F0-47CF-9B2A-5021A0E5E555}|BaiTapMVC\\BaiTapMVC.csproj|solutionrelative:baitapmvc\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72035871-A5F0-47CF-9B2A-5021A0E5E555}|BaiTapMVC\\BaiTapMVC.csproj|f:\\stcanhanc#\\baitapmvc\\baitapmvc\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72035871-A5F0-47CF-9B2A-5021A0E5E555}|BaiTapMVC\\BaiTapMVC.csproj|solutionrelative:baitapmvc\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72035871-A5F0-47CF-9B2A-5021A0E5E555}|BaiTapMVC\\BaiTapMVC.csproj|f:\\stcanhanc#\\baitapmvc\\baitapmvc\\controllers\\courseclassescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72035871-A5F0-47CF-9B2A-5021A0E5E555}|BaiTapMVC\\BaiTapMVC.csproj|solutionrelative:baitapmvc\\controllers\\courseclassescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72035871-A5F0-47CF-9B2A-5021A0E5E555}|BaiTapMVC\\BaiTapMVC.csproj|f:\\stcanhanc#\\baitapmvc\\baitapmvc\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72035871-A5F0-47CF-9B2A-5021A0E5E555}|BaiTapMVC\\BaiTapMVC.csproj|solutionrelative:baitapmvc\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72035871-A5F0-47CF-9B2A-5021A0E5E555}|BaiTapMVC\\BaiTapMVC.csproj|f:\\stcanhanc#\\baitapmvc\\baitapmvc\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72035871-A5F0-47CF-9B2A-5021A0E5E555}|BaiTapMVC\\BaiTapMVC.csproj|solutionrelative:baitapmvc\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,27 +59,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20260420065305_InitDB.cs",
-              "DocumentMoniker": "F:\\stCaNhanC#\\BaiTapMVC\\BaiTapMVC\\Migrations\\20260420065305_InitDB.cs",
-              "RelativeDocumentMoniker": "BaiTapMVC\\Migrations\\20260420065305_InitDB.cs",
-              "ToolTip": "F:\\stCaNhanC#\\BaiTapMVC\\BaiTapMVC\\Migrations\\20260420065305_InitDB.cs",
-              "RelativeToolTip": "BaiTapMVC\\Migrations\\20260420065305_InitDB.cs",
+              "Title": "EnrollmentsController.cs",
+              "DocumentMoniker": "F:\\stCaNhanC#\\BaiTapMVC\\BaiTapMVC\\Controllers\\EnrollmentsController.cs",
+              "RelativeDocumentMoniker": "BaiTapMVC\\Controllers\\EnrollmentsController.cs",
+              "ToolTip": "F:\\stCaNhanC#\\BaiTapMVC\\BaiTapMVC\\Controllers\\EnrollmentsController.cs",
+              "RelativeToolTip": "BaiTapMVC\\Controllers\\EnrollmentsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T06:53:07.164Z",
+              "WhenOpened": "2026-04-20T07:04:20.667Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "F:\\stCaNhanC#\\BaiTapMVC\\BaiTapMVC\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "BaiTapMVC\\Data\\AppDbContext.cs",
-              "ToolTip": "F:\\stCaNhanC#\\BaiTapMVC\\BaiTapMVC\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "BaiTapMVC\\Data\\AppDbContext.cs",
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "F:\\stCaNhanC#\\BaiTapMVC\\BaiTapMVC\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "BaiTapMVC\\Controllers\\StudentsController.cs",
+              "ToolTip": "F:\\stCaNhanC#\\BaiTapMVC\\BaiTapMVC\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "BaiTapMVC\\Controllers\\StudentsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T06:52:11.664Z",
+              "WhenOpened": "2026-04-20T07:03:46.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseClassesController.cs",
+              "DocumentMoniker": "F:\\stCaNhanC#\\BaiTapMVC\\BaiTapMVC\\Controllers\\CourseClassesController.cs",
+              "RelativeDocumentMoniker": "BaiTapMVC\\Controllers\\CourseClassesController.cs",
+              "ToolTip": "F:\\stCaNhanC#\\BaiTapMVC\\BaiTapMVC\\Controllers\\CourseClassesController.cs",
+              "RelativeToolTip": "BaiTapMVC\\Controllers\\CourseClassesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T07:02:33.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeachersController.cs",
+              "DocumentMoniker": "F:\\stCaNhanC#\\BaiTapMVC\\BaiTapMVC\\Controllers\\TeachersController.cs",
+              "RelativeDocumentMoniker": "BaiTapMVC\\Controllers\\TeachersController.cs",
+              "ToolTip": "F:\\stCaNhanC#\\BaiTapMVC\\BaiTapMVC\\Controllers\\TeachersController.cs",
+              "RelativeToolTip": "BaiTapMVC\\Controllers\\TeachersController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T07:01:54.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "F:\\stCaNhanC#\\BaiTapMVC\\BaiTapMVC\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "BaiTapMVC\\Controllers\\CoursesController.cs",
+              "ToolTip": "F:\\stCaNhanC#\\BaiTapMVC\\BaiTapMVC\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "BaiTapMVC\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T06:58:53.2Z",
               "EditorCaption": ""
             }
           ]
